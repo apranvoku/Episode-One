@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Anna0Battler","characterIndex":0,"characterName":"AnnaWalk","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Anna","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anna","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"VyBattler","characterIndex":0,"characterName":"VyWalk","classId":5,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Vy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vy","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"IvyBattler","characterIndex":0,"characterName":"IvyWalk","classId":5,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Ivy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ivy","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"VivMBattler","characterIndex":0,"characterName":"VivWalk","classId":5,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Viv","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vivian","nickname":"","note":"","profile":""}
+]
